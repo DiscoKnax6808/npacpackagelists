@@ -1,6 +1,6 @@
 {
   "chromium": {
-    "version": "1.0"
+    "version": "1.0",
     "url": "https://dl.google.com/linux/deb/pool/main/g/google-chrome-stable/google-chrome-stable_136.0.7103.59-1_amd64.deb"
   }
 }
