@@ -2,5 +2,9 @@
   "chromium": {
     "version": "1.0",
     "url": "https://dl.google.com/linux/deb/pool/main/g/google-chrome-stable/google-chrome-stable_136.0.7103.59-1_amd64.deb"
+  },
+  "cheese64": {
+    "version": "3.38.0-3",
+    "url": "http://ftp.de.debian.org/debian/pool/main/c/cheese/cheese_3.38.0-3_amd64.deb"
   }
 }
